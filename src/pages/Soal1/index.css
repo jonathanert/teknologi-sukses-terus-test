@@ -1,0 +1,7 @@
+.soal-1-section {
+  @apply bg-slate-500 h-screen w-full content-center
+}
+
+.flex-mt-10 {
+  @apply flex justify-center gap-4 mt-10
+}
